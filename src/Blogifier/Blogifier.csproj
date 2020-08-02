@@ -44,4 +44,8 @@
     <Folder Include="Logs\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\fluent_light_search.gif" />
+  </ItemGroup>
+
 </Project>
