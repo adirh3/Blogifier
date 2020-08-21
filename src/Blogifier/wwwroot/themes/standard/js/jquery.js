@@ -9301,11 +9301,25 @@
 		},
 
 		getJSON: function (url, data, callback) {
-			return jQuery.get(url, data, callback, "json");
+			let result = null;
+			try {
+				result = jQuery.get(url, data, callback, "json");
+			}
+			catch (e) {
+				
+			}
+			return result;
 		},
 
 		getScript: function (url, callback) {
-			return jQuery.get(url, undefined, callback, "script");
+			let result = null;
+			try {
+				result = jQuery.get(url, undefined, callback, "script");
+			}
+			catch (e) {
+
+			}
+			return result;
 		}
 	});
 
