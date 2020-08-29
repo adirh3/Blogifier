@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\adirh\.nuget\packages\demo.blazorchartist\0.1.0-20200124.1\contentFiles\any\netstandard2.0\StaticAssets" t="Include">
+      <e p="package-lock.json" t="Include" />
+      <e p="package.json" t="Include" />
+      <e p="tsconfig.json" t="Include" />
+    </e>
+    <e p="C:\Users\adirh\.nuget\packages\microsoft.net.test.sdk\16.4.0\build\netcoreapp2.1" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\adirh\.nuget\packages\microsoft.testplatform.testhost\16.4.0\build\netcoreapp2.1\x64\testhost.dll" t="Include" />
+    <e p="C:\Users\adirh\.nuget\packages\microsoft.testplatform.testhost\16.4.0\build\netcoreapp2.1\x64\testhost.exe" t="Include" />
+    <e p="C:\Users\adirh\.nuget\packages\sotsera.blazor.toaster\3.0.0\contentFiles\any\netstandard2.1\Properties" t="Include">
+      <e p="launchSettings.json" t="Include" />
+    </e>
+    <e p="C:\Users\adirh\.nuget\packages\xunit.runner.visualstudio\2.4.1\build\netcoreapp1.0\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\adirh\.nuget\packages\xunit.runner.visualstudio\2.4.1\build\netcoreapp1.0\xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\adirh\.nuget\packages\xunit.runner.visualstudio\2.4.1\build\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="C:\Users\adirh\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\adirh\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Blogifier.1471637821.00" t="ExcludeRecursive" />
+    <e p="C:\Users\adirh\AppData\Roaming\JetBrains\Rider2020.2\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\adirh\RiderProjects\FluentSearch.Blogifier" t="IncludeFlat">
+      <e p=".gitignore" t="Include" />
+      <e p="azure-pipelines.yml" t="Include" />
+      <e p="Blogifier.sln" t="IncludeFlat" />
+      <e p="build" t="Include">
+        <e p="build.cake" t="Include" />
+        <e p="build.ps1" t="Include" />
+      </e>
+      <e p="docs" t="Include">
+        <e p="AppSettings.md" t="Include" />
+        <e p="Build.md" t="Include" />
+        <e p="Import.md" t="Include" />
+        <e p="Localization.md" t="Include" />
+        <e p="MySQL.md" t="Include" />
+        <e p="Newsletter.md" t="Include" />
+        <e p="Notifications.md" t="Include" />
+        <e p="PostgreSQL.md" t="Include" />
+        <e p="ScriptIncludes.md" t="Include" />
+        <e p="Security.md" t="Include" />
+        <e p="SendGrid.md" t="Include" />
+        <e p="SocialAccounts.md" t="Include" />
+        <e p="SqlServer.md" t="Include" />
+        <e p="Themes.md" t="Include" />
+        <e p="Troubleshooting.md" t="Include" />
+        <e p="VideoAudio.md" t="Include" />
+      </e>
+      <e p="LICENSE" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="README.md" t="Include" />
+      <e p="Solution Items" t="Include" />
+      <e p="src" t="Include">
+        <e p="Blogifier" t="IncludeRecursive">
+          <e p="_Imports.razor" t="Include" />
+          <e p="App.razor" t="Include" />
+          <e p="appsettings.Development.json" t="Include" />
+          <e p="appsettings.json" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Blog.db" t="Include" />
+          <e p="Blogifier.csproj" t="IncludeRecursive" />
+          <e p="bundleconfig.json" t="Include" />
+          <e p="Controllers" t="Include">
+            <e p="BlogController.cs" t="Include" />
+            <e p="NewsletterController.cs" t="Include" />
+          </e>
+          <e p="icon.png" t="Include" />
+          <e p="Logs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="Blogifier.AssemblyInfo.cs" t="Include" />
+                <e p="Blogifier.RazorAssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Pages" t="Include">
+            <e p="_ViewImports.cshtml" t="Include" />
+            <e p="Account" t="Include">
+              <e p="_Layout.cshtml" t="Include" />
+              <e p="Login.cshtml" t="Include" />
+              <e p="Login.cshtml.cs" t="Include" />
+              <e p="Register.cshtml" t="Include" />
+              <e p="Register.cshtml.cs" t="Include" />
+            </e>
+            <e p="Admin" t="Include">
+              <e p="_Host.cshtml" t="Include" />
+              <e p="Index.razor" t="Include" />
+              <e p="Newsletter.razor" t="Include" />
+              <e p="Settings.razor" t="Include" />
+              <e p="Settings.razor.cs" t="Include" />
+              <e p="Shared" t="Include">
+                <e p="MainLayout.razor" t="Include" />
+                <e p="NavMenu.razor" t="Include" />
+              </e>
+            </e>
+            <e p="Error.razor" t="Include" />
+            <e p="ErrorLayout.razor" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Program.cs" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="launchSettings.json" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="localization.json" t="Include" />
+          </e>
+          <e p="Startup.cs" t="Include" />
+          <e p="Views" t="Include">
+            <e p="_ViewImports.cshtml" t="Include" />
+            <e p="Shared" t="Include">
+              <e p="FooterScript.cshtml" t="Include" />
+              <e p="HeaderScript.cshtml" t="Include" />
+            </e>
+            <e p="Themes" t="Include">
+              <e p="CleanBlog" t="Include">
+                <e p="List.cshtml" t="Include" />
+                <e p="Post.cshtml" t="Include" />
+                <e p="Shared" t="Include">
+                  <e p="Footer.cshtml" t="Include" />
+                </e>
+              </e>
+              <e p="Html5" t="Include">
+                <e p="List.cshtml" t="Include" />
+                <e p="Post.cshtml" t="Include" />
+                <e p="Shared" t="Include">
+                  <e p="Aside.cshtml" t="Include" />
+                  <e p="Footer.cshtml" t="Include" />
+                  <e p="Header.cshtml" t="Include" />
+                </e>
+              </e>
+              <e p="Philosophy" t="Include">
+                <e p="List.cshtml" t="Include" />
+                <e p="Post.cshtml" t="Include" />
+                <e p="Shared" t="Include">
+                  <e p="Footer.cshtml" t="Include" />
+                  <e p="Header.cshtml" t="Include" />
+                </e>
+              </e>
+              <e p="Standard" t="Include">
+                <e p="List.cshtml" t="Include" />
+                <e p="Post.cshtml" t="Include" />
+                <e p="Shared" t="Include">
+                  <e p="Footer.cshtml" t="Include" />
+                  <e p="Head.cshtml" t="Include" />
+                  <e p="Header.cshtml" t="Include" />
+                </e>
+              </e>
+              <e p="Vizew" t="Include">
+                <e p="List.cshtml" t="Include" />
+                <e p="Post.cshtml" t="Include" />
+                <e p="Shared" t="Include">
+                  <e p="Footer.cshtml" t="Include" />
+                  <e p="Head.cshtml" t="Include" />
+                  <e p="Header.cshtml" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="wwwroot" t="Include">
+            <e p="Account" t="Include">
+              <e p="css" t="Include">
+                <e p="bootstrap.min.css" t="Include" />
+                <e p="styles.min.css" t="Include" />
+              </e>
+              <e p="img" t="Include">
+                <e p="logo-sm.png" t="Include" />
+              </e>
+              <e p="js" t="Include">
+                <e p="jquery.min.js" t="Include" />
+                <e p="jquery.validate.min.js" t="Include" />
+                <e p="jquery.validate.unobtrusive.min.js" t="Include" />
+              </e>
+            </e>
+            <e p="Admin" t="Include">
+              <e p="css" t="Include">
+                <e p="admin.css" t="Include" />
+                <e p="bootstrap" t="Include">
+                  <e p="bootstrap.min.css" t="Include" />
+                  <e p="bootstrap.min.css.map" t="Include" />
+                </e>
+                <e p="open-iconic" t="Include">
+                  <e p="font" t="Include">
+                    <e p="css" t="Include">
+                      <e p="open-iconic-bootstrap.min.css" t="Include" />
+                    </e>
+                    <e p="fonts" t="Include">
+                      <e p="open-iconic.eot" t="Include" />
+                      <e p="open-iconic.otf" t="Include" />
+                      <e p="open-iconic.svg" t="Include" />
+                      <e p="open-iconic.ttf" t="Include" />
+                      <e p="open-iconic.woff" t="Include" />
+                    </e>
+                  </e>
+                  <e p="FONT-LICENSE" t="Include" />
+                  <e p="ICON-LICENSE" t="Include" />
+                  <e p="README.md" t="Include" />
+                </e>
+                <e p="prism.css" t="Include" />
+                <e p="site.css" t="Include" />
+              </e>
+              <e p="img" t="Include">
+                <e p="avatar.png" t="Include" />
+                <e p="cover-small.png" t="Include" />
+                <e p="cover.png" t="Include" />
+                <e p="favicon.ico" t="Include" />
+                <e p="img-placeholder.png" t="Include" />
+                <e p="logo" t="Include">
+                  <e p="black" t="Include">
+                    <e p="logo.png" t="Include" />
+                    <e p="logotype.png" t="Include" />
+                  </e>
+                  <e p="white" t="Include">
+                    <e p="logo.png" t="Include" />
+                    <e p="logotype.png" t="Include" />
+                  </e>
+                </e>
+                <e p="logo-light.png" t="Include" />
+                <e p="logo-white.png" t="Include" />
+              </e>
+              <e p="js" t="Include">
+                <e p="bootstrap.min.js" t="Include" />
+                <e p="dataService.js" t="Include" />
+                <e p="fileManager.js" t="Include" />
+                <e p="jquery.min.js" t="Include" />
+                <e p="newsletter.js" t="Include" />
+                <e p="popper.min.js" t="Include" />
+                <e p="prism.js" t="Include" />
+              </e>
+              <e p="markdown" t="Include">
+                <e p="editorController.js" t="Include" />
+                <e p="simplemde.min.css" t="Include" />
+                <e p="simplemde.min.js" t="Include" />
+              </e>
+            </e>
+            <e p="data" t="Include">
+              <e p="_init" t="Include">
+                <e p="_test" t="Include">
+                  <e p="be3.xml" t="Include" />
+                </e>
+                <e p="Admin" t="Include">
+                  <e p="admin-editor.png" t="Include" />
+                  <e p="admin-files.png" t="Include" />
+                  <e p="avatar.png" t="Include" />
+                  <e p="cover-blog.png" t="Include" />
+                  <e p="cover-desk.jpg" t="Include" />
+                  <e p="cover-globe.png" t="Include" />
+                </e>
+                <e p="demo" t="Include">
+                  <e p="demo-cover.jpg" t="Include" />
+                </e>
+              </e>
+              <e p="_test" t="Include">
+                <e p="be3.xml" t="Include" />
+              </e>
+              <e p="Admin" t="Include">
+                <e p="2020" t="Include">
+                  <e p="4" t="Include">
+                    <e p="admin-dashboard.png" t="Include" />
+                    <e p="cover.jpg" t="Include" />
+                    <e p="thumbs" t="Include">
+                      <e p="cover.jpg" t="Include" />
+                    </e>
+                  </e>
+                  <e p="5" t="Include">
+                    <e p="blog.jpg" t="Include" />
+                    <e p="keyboard.jpg" t="Include" />
+                    <e p="thumbs" t="Include">
+                      <e p="blog.jpg" t="Include" />
+                      <e p="keyboard.jpg" t="Include" />
+                      <e p="work.jpg" t="Include" />
+                    </e>
+                    <e p="work.jpg" t="Include" />
+                  </e>
+                  <e p="8" t="Include">
+                    <e p="blast_icon_white.ico" t="Include" />
+                  </e>
+                </e>
+                <e p="avatar.png" t="Include" />
+              </e>
+            </e>
+            <e p="favicon.ico" t="Include" />
+            <e p="Fluent Search Logo.png" t="Include" />
+            <e p="Fluent-Search-Logo.webp" t="Include" />
+            <e p="fluent_icon_light.png" t="Include" />
+            <e p="fluent_light_search.gif" t="Include" />
+            <e p="fluent_light_search_2.gif" t="Include" />
+            <e p="fluent_search_light.webm" t="Include" />
+            <e p="home" t="Include">
+              <e p="assets" t="Include">
+                <e p="brand" t="Include">
+                  <e p="bootstrap-outline.svg" t="Include" />
+                  <e p="bootstrap-punchout.svg" t="Include" />
+                  <e p="bootstrap-social-logo.png" t="Include" />
+                  <e p="bootstrap-social.png" t="Include" />
+                  <e p="bootstrap-solid.svg" t="Include" />
+                </e>
+                <e p="css" t="Include">
+                  <e p="docs.min.css" t="Include" />
+                  <e p="docs.min.css.map" t="Include" />
+                </e>
+                <e p="img" t="Include">
+                  <e p="bootstrap-stack.png" t="Include" />
+                  <e p="bootstrap-themes.png" t="Include" />
+                  <e p="favicons" t="Include">
+                    <e p="android-chrome-192x192.png" t="Include" />
+                    <e p="android-chrome-512x512.png" t="Include" />
+                    <e p="apple-touch-icon.png" t="Include" />
+                    <e p="browserconfig.xml" t="Include" />
+                    <e p="favicon-16x16.png" t="Include" />
+                    <e p="favicon-32x32.png" t="Include" />
+                    <e p="manifest.json" t="Include" />
+                    <e p="mstile-144x144.png" t="Include" />
+                    <e p="mstile-150x150.png" t="Include" />
+                    <e p="mstile-310x150.png" t="Include" />
+                    <e p="mstile-310x310.png" t="Include" />
+                    <e p="mstile-70x70.png" t="Include" />
+                    <e p="safari-pinned-tab.svg" t="Include" />
+                  </e>
+                </e>
+                <e p="js" t="Include">
+                  <e p=".eslintrc.json" t="Include" />
+                  <e p="docs.min.js" t="Include" />
+                  <e p="src" t="Include">
+                    <e p="application.js" t="Include" />
+                    <e p="ie-emulation-modes-warning.js" t="Include" />
+                    <e p="pwa.js" t="Include" />
+                  </e>
+                  <e p="vendor" t="Include">
+                    <e p="anchor.min.js" t="Include" />
+                    <e p="clipboard.min.js" t="Include" />
+                    <e p="holder.min.js" t="Include" />
+                    <e p="jquery-slim.min.js" t="Include" />
+                    <e p="popper.min.js" t="Include" />
+                  </e>
+                </e>
+                <e p="scss" t="Include">
+                  <e p="_ads.scss" t="Include" />
+                  <e p="_algolia.scss" t="Include" />
+                  <e p="_anchor.scss" t="Include" />
+                  <e p="_brand.scss" t="Include" />
+                  <e p="_browser-bugs.scss" t="Include" />
+                  <e p="_buttons.scss" t="Include" />
+                  <e p="_callouts.scss" t="Include" />
+                  <e p="_clipboard-js.scss" t="Include" />
+                  <e p="_colors.scss" t="Include" />
+                  <e p="_component-examples.scss" t="Include" />
+                  <e p="_content.scss" t="Include" />
+                  <e p="_examples.scss" t="Include" />
+                  <e p="_footer.scss" t="Include" />
+                  <e p="_masthead.scss" t="Include" />
+                  <e p="_nav.scss" t="Include" />
+                  <e p="_sidebar.scss" t="Include" />
+                  <e p="_skiplink.scss" t="Include" />
+                  <e p="_syntax.scss" t="Include" />
+                  <e p="_variables.scss" t="Include" />
+                  <e p="docs.scss" t="Include" />
+                </e>
+              </e>
+              <e p="cover.css" t="Include" />
+              <e p="dist" t="Include">
+                <e p="css" t="Include">
+                  <e p="bootstrap-grid.css" t="Include" />
+                  <e p="bootstrap-grid.css.map" t="Include" />
+                  <e p="bootstrap-grid.min.css" t="Include" />
+                  <e p="bootstrap-grid.min.css.map" t="Include" />
+                  <e p="bootstrap-reboot.css" t="Include" />
+                  <e p="bootstrap-reboot.css.map" t="Include" />
+                  <e p="bootstrap-reboot.min.css" t="Include" />
+                  <e p="bootstrap-reboot.min.css.map" t="Include" />
+                  <e p="bootstrap.css" t="Include" />
+                  <e p="bootstrap.css.map" t="Include" />
+                  <e p="bootstrap.min.css" t="Include" />
+                  <e p="bootstrap.min.css.map" t="Include" />
+                </e>
+                <e p="js" t="Include">
+                  <e p="bootstrap.bundle.js" t="Include" />
+                  <e p="bootstrap.bundle.js.map" t="Include" />
+                  <e p="bootstrap.bundle.min.js" t="Include" />
+                  <e p="bootstrap.bundle.min.js.map" t="Include" />
+                  <e p="bootstrap.js" t="Include" />
+                  <e p="bootstrap.js.map" t="Include" />
+                  <e p="bootstrap.min.js" t="Include" />
+                  <e p="bootstrap.min.js.map" t="Include" />
+                </e>
+              </e>
+              <e p="img" t="Include">
+                <e p="desktop_wallpaper.png" t="Include" />
+                <e p="pexels-bri-schneiter-346529.jpg" t="Include" />
+                <e p="pexels-bri-schneiter-346529.webp" t="Include" />
+                <e p="pexels-jakub-novacek-924824.jpg" t="Include" />
+                <e p="pexels-jaymantri-4827.jpg" t="Include" />
+                <e p="sea.webp" t="Include" />
+                <e p="sea2.webp" t="Include" />
+              </e>
+            </e>
+            <e p="templates" t="Include">
+              <e p="newsletter.html" t="Include" />
+            </e>
+            <e p="Themes" t="Include">
+              <e p="CleanBlog" t="Include">
+                <e p="css" t="Include">
+                  <e p="clean-blog.css" t="Include" />
+                  <e p="clean-blog.min.css" t="Include" />
+                </e>
+                <e p="img" t="Include">
+                  <e p="about-bg.jpg" t="Include" />
+                  <e p="contact-bg.jpg" t="Include" />
+                  <e p="home-bg.jpg" t="Include" />
+                  <e p="post-bg.jpg" t="Include" />
+                  <e p="post-sample-image.jpg" t="Include" />
+                </e>
+                <e p="js" t="Include">
+                  <e p="clean-blog.js" t="Include" />
+                  <e p="clean-blog.min.js" t="Include" />
+                  <e p="contact_me.js" t="Include" />
+                  <e p="jqBootstrapValidation.js" t="Include" />
+                </e>
+                <e p="screenshot.png" t="Include" />
+                <e p="vendor" t="Include">
+                  <e p="bootstrap" t="Include">
+                    <e p="css" t="Include">
+                      <e p="bootstrap-grid.css" t="Include" />
+                      <e p="bootstrap-grid.css.map" t="Include" />
+                      <e p="bootstrap-grid.min.css" t="Include" />
+                      <e p="bootstrap-grid.min.css.map" t="Include" />
+                      <e p="bootstrap-reboot.css" t="Include" />
+                      <e p="bootstrap-reboot.css.map" t="Include" />
+                      <e p="bootstrap-reboot.min.css" t="Include" />
+                      <e p="bootstrap-reboot.min.css.map" t="Include" />
+                      <e p="bootstrap.css" t="Include" />
+                      <e p="bootstrap.css.map" t="Include" />
+                      <e p="bootstrap.min.css" t="Include" />
+                      <e p="bootstrap.min.css.map" t="Include" />
+                    </e>
+                    <e p="js" t="Include">
+                      <e p="bootstrap.bundle.js" t="Include" />
+                      <e p="bootstrap.bundle.js.map" t="Include" />
+                      <e p="bootstrap.bundle.min.js" t="Include" />
+                      <e p="bootstrap.bundle.min.js.map" t="Include" />
+                      <e p="bootstrap.js" t="Include" />
+                      <e p="bootstrap.js.map" t="Include" />
+                      <e p="bootstrap.min.js" t="Include" />
+                      <e p="bootstrap.min.js.map" t="Include" />
+                    </e>
+                  </e>
+                  <e p="fontawesome-free" t="Include">
+                    <e p="css" t="Include">
+                      <e p="all.css" t="Include" />
+                      <e p="all.min.css" t="Include" />
+                      <e p="brands.css" t="Include" />
+                      <e p="brands.min.css" t="Include" />
+                      <e p="fontawesome.css" t="Include" />
+                      <e p="fontawesome.min.css" t="Include" />
+                      <e p="regular.css" t="Include" />
+                      <e p="regular.min.css" t="Include" />
+                      <e p="solid.css" t="Include" />
+                      <e p="solid.min.css" t="Include" />
+                      <e p="svg-with-js.css" t="Include" />
+                      <e p="svg-with-js.min.css" t="Include" />
+                      <e p="v4-shims.css" t="Include" />
+                      <e p="v4-shims.min.css" t="Include" />
+                    </e>
+                    <e p="webfonts" t="Include">
+                      <e p="fa-brands-400.eot" t="Include" />
+                      <e p="fa-brands-400.svg" t="Include" />
+                      <e p="fa-brands-400.ttf" t="Include" />
+                      <e p="fa-brands-400.woff" t="Include" />
+                      <e p="fa-brands-400.woff2" t="Include" />
+                      <e p="fa-regular-400.eot" t="Include" />
+                      <e p="fa-regular-400.svg" t="Include" />
+                      <e p="fa-regular-400.ttf" t="Include" />
+                      <e p="fa-regular-400.woff" t="Include" />
+                      <e p="fa-regular-400.woff2" t="Include" />
+                      <e p="fa-solid-900.eot" t="Include" />
+                      <e p="fa-solid-900.svg" t="Include" />
+                      <e p="fa-solid-900.ttf" t="Include" />
+                      <e p="fa-solid-900.woff" t="Include" />
+                      <e p="fa-solid-900.woff2" t="Include" />
+                    </e>
+                  </e>
+                  <e p="jquery" t="Include">
+                    <e p="jquery.js" t="Include" />
+                    <e p="jquery.min.js" t="Include" />
+                    <e p="jquery.min.map" t="Include" />
+                    <e p="jquery.slim.js" t="Include" />
+                    <e p="jquery.slim.min.js" t="Include" />
+                    <e p="jquery.slim.min.map" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Html5" t="Include">
+                <e p="screenshot.png" t="Include" />
+                <e p="script.js" t="Include" />
+                <e p="style.css" t="Include" />
+              </e>
+              <e p="Philosophy" t="Include">
+                <e p="css" t="Include">
+                  <e p="base.css" t="Include" />
+                  <e p="font-awesome" t="Include">
+                    <e p="css" t="Include">
+                      <e p="font-awesome.css" t="Include" />
+                      <e p="font-awesome.min.css" t="Include" />
+                    </e>
+                    <e p="fonts" t="Include">
+                      <e p="fontawesome-webfont.eot" t="Include" />
+                      <e p="fontawesome-webfont.svg" t="Include" />
+                      <e p="fontawesome-webfont.ttf" t="Include" />
+                      <e p="fontawesome-webfont.woff" t="Include" />
+                      <e p="FontAwesome.otf" t="Include" />
+                    </e>
+                  </e>
+                  <e p="fonts.css" t="Include" />
+                  <e p="main.css" t="Include" />
+                  <e p="vendor.css" t="Include" />
+                </e>
+                <e p="fonts" t="Include">
+                  <e p="librebaskerville" t="Include">
+                    <e p="librebaskerville-bold-webfont.woff" t="Include" />
+                    <e p="librebaskerville-bold-webfont.woff2" t="Include" />
+                    <e p="librebaskerville-italic-webfont.woff" t="Include" />
+                    <e p="librebaskerville-italic-webfont.woff2" t="Include" />
+                    <e p="librebaskerville-regular-webfont.woff" t="Include" />
+                    <e p="librebaskerville-regular-webfont.woff2" t="Include" />
+                  </e>
+                  <e p="metropolis" t="Include">
+                    <e p="metropolis-black-webfont.ttf" t="Include" />
+                    <e p="metropolis-black-webfont.woff" t="Include" />
+                    <e p="metropolis-black-webfont.woff2" t="Include" />
+                    <e p="metropolis-blackitalic-webfont.ttf" t="Include" />
+                    <e p="metropolis-blackitalic-webfont.woff" t="Include" />
+                    <e p="metropolis-blackitalic-webfont.woff2" t="Include" />
+                    <e p="metropolis-bold-webfont.ttf" t="Include" />
+                    <e p="metropolis-bold-webfont.woff" t="Include" />
+                    <e p="metropolis-bold-webfont.woff2" t="Include" />
+                    <e p="metropolis-bolditalic-webfont.woff" t="Include" />
+                    <e p="metropolis-bolditalic-webfont.woff2" t="Include" />
+                    <e p="metropolis-extrabold-webfont.woff" t="Include" />
+                    <e p="metropolis-extrabold-webfont.woff2" t="Include" />
+                    <e p="metropolis-extrabolditalic-webfont.ttf" t="Include" />
+                    <e p="metropolis-extrabolditalic-webfont.woff" t="Include" />
+                    <e p="metropolis-extrabolditalic-webfont.woff2" t="Include" />
+                    <e p="metropolis-extralight-webfont.ttf" t="Include" />
+                    <e p="metropolis-extralight-webfont.woff" t="Include" />
+                    <e p="metropolis-extralight-webfont.woff2" t="Include" />
+                    <e p="metropolis-extralightitalic-webfont.woff" t="Include" />
+                    <e p="metropolis-extralightitalic-webfont.woff2" t="Include" />
+                    <e p="metropolis-light-webfont.woff" t="Include" />
+                    <e p="metropolis-light-webfont.woff2" t="Include" />
+                    <e p="metropolis-lightitalic-webfont.woff" t="Include" />
+                    <e p="metropolis-lightitalic-webfont.woff2" t="Include" />
+                    <e p="metropolis-medium-webfont.ttf" t="Include" />
+                    <e p="metropolis-medium-webfont.woff" t="Include" />
+                    <e p="metropolis-medium-webfont.woff2" t="Include" />
+                    <e p="metropolis-mediumitalic-webfont.woff" t="Include" />
+                    <e p="metropolis-mediumitalic-webfont.woff2" t="Include" />
+                    <e p="metropolis-regular-webfont.ttf" t="Include" />
+                    <e p="metropolis-regular-webfont.woff" t="Include" />
+                    <e p="metropolis-regular-webfont.woff2" t="Include" />
+                    <e p="metropolis-regularitalic-webfont.woff" t="Include" />
+                    <e p="metropolis-regularitalic-webfont.woff2" t="Include" />
+                    <e p="metropolis-semibold-webfont.ttf" t="Include" />
+                    <e p="metropolis-semibold-webfont.woff" t="Include" />
+                    <e p="metropolis-semibold-webfont.woff2" t="Include" />
+                    <e p="metropolis-semibolditalic-webfont.ttf" t="Include" />
+                    <e p="metropolis-semibolditalic-webfont.woff" t="Include" />
+                    <e p="metropolis-semibolditalic-webfont.woff2" t="Include" />
+                    <e p="metropolis-thin-webfont.woff" t="Include" />
+                    <e p="metropolis-thin-webfont.woff2" t="Include" />
+                    <e p="metropolis-thinitalic-webfont.woff" t="Include" />
+                    <e p="metropolis-thinitalic-webfont.woff2" t="Include" />
+                  </e>
+                </e>
+                <e p="images" t="Include">
+                  <e p="avatars" t="Include">
+                    <e p="user-01.jpg" t="Include" />
+                    <e p="user-02.jpg" t="Include" />
+                    <e p="user-03.jpg" t="Include" />
+                    <e p="user-04.jpg" t="Include" />
+                    <e p="user-05.jpg" t="Include" />
+                  </e>
+                  <e p="hero-bg.jpg" t="Include" />
+                  <e p="icon-location.png" t="Include" />
+                  <e p="icon-location@2x.png" t="Include" />
+                  <e p="icons" t="Include">
+                    <e p="icon-arrow-left-w.svg" t="Include" />
+                    <e p="icon-arrow-left.svg" t="Include" />
+                    <e p="icon-arrow-right-w.svg" t="Include" />
+                    <e p="icon-arrow-right.svg" t="Include" />
+                    <e p="icon-arrow-up.svg" t="Include" />
+                    <e p="icon-link.svg" t="Include" />
+                    <e p="icon-mail.svg" t="Include" />
+                    <e p="icon-quote.svg" t="Include" />
+                    <e p="icon-search.svg" t="Include" />
+                    <e p="icon-video.svg" t="Include" />
+                    <e p="png" t="Include">
+                      <e p="icon-arrow-left-w.png" t="Include" />
+                      <e p="icon-arrow-left.png" t="Include" />
+                      <e p="icon-arrow-right-w.png" t="Include" />
+                      <e p="icon-arrow-right.png" t="Include" />
+                      <e p="icon-arrow-up.png" t="Include" />
+                      <e p="icon-link.png" t="Include" />
+                      <e p="icon-mail.png" t="Include" />
+                      <e p="icon-quote.png" t="Include" />
+                      <e p="icon-search.png" t="Include" />
+                      <e p="icon-video.png" t="Include" />
+                    </e>
+                  </e>
+                  <e p="logo.png" t="Include" />
+                  <e p="logo.svg" t="Include" />
+                  <e p="mejs" t="Include">
+                    <e p="mejs-controls.png" t="Include" />
+                    <e p="mejs-controls.svg" t="Include" />
+                  </e>
+                </e>
+                <e p="js" t="Include">
+                  <e p="jquery-3.2.1.min.js" t="Include" />
+                  <e p="main.js" t="Include" />
+                  <e p="modernizr.js" t="Include" />
+                  <e p="newsletter.js" t="Include" />
+                  <e p="pace.min.js" t="Include" />
+                  <e p="plugins.js" t="Include" />
+                </e>
+                <e p="screenshot.png" t="Include" />
+              </e>
+              <e p="Standard" t="Include">
+                <e p="css" t="Include">
+                  <e p="bootstrap.min.css" t="Include" />
+                  <e p="font-awesome.min.css" t="Include" />
+                  <e p="prism.css" t="Include" />
+                  <e p="standard.min.css" t="Include" />
+                  <e p="styles.min.css" t="Include" />
+                </e>
+                <e p="fonts" t="Include">
+                  <e p="fontawesome-webfont.eot" t="Include" />
+                  <e p="fontawesome-webfont.svg" t="Include" />
+                  <e p="fontawesome-webfont.ttf" t="Include" />
+                  <e p="fontawesome-webfont.woff" t="Include" />
+                  <e p="fontawesome-webfont.woff2" t="Include" />
+                  <e p="FontAwesome.otf" t="Include" />
+                </e>
+                <e p="img" t="Include">
+                  <e p="avatar.jpg" t="Include" />
+                  <e p="cover.png" t="Include" />
+                  <e p="logo-white.png" t="Include" />
+                  <e p="standard.ico" t="Include" />
+                </e>
+                <e p="js" t="Include">
+                  <e p="blog.js" t="Include" />
+                  <e p="bootstrap.min.js" t="Include" />
+                  <e p="jquery.js" t="Include" />
+                  <e p="jquery.min.js" t="Include" />
+                  <e p="popper.min.js" t="Include" />
+                  <e p="prism.js" t="Include" />
+                  <e p="standard.min.js" t="Include" />
+                </e>
+                <e p="screenshot.png" t="Include" />
+              </e>
+              <e p="Vizew" t="Include">
+                <e p="css" t="Include">
+                  <e p="animate.css" t="Include" />
+                  <e p="bootstrap.min.css" t="Include" />
+                  <e p="classy-nav.css" t="Include" />
+                  <e p="font-awesome.min.css" t="Include" />
+                  <e p="magnific-popup.css" t="Include" />
+                  <e p="nice-select.css" t="Include" />
+                  <e p="owl.carousel.min.css" t="Include" />
+                  <e p="prism.css" t="Include" />
+                  <e p="themify-icons.css" t="Include" />
+                </e>
+                <e p="fonts" t="Include">
+                  <e p="classy.eot" t="Include" />
+                  <e p="classy.svg" t="Include" />
+                  <e p="classy.ttf" t="Include" />
+                  <e p="classy.woff" t="Include" />
+                  <e p="fontawesome-webfont.eot" t="Include" />
+                  <e p="fontawesome-webfont.svg" t="Include" />
+                  <e p="fontawesome-webfont.ttf" t="Include" />
+                  <e p="fontawesome-webfont.woff" t="Include" />
+                  <e p="fontawesome-webfont.woff2" t="Include" />
+                  <e p="FontAwesome.otf" t="Include" />
+                  <e p="themify.eot" t="Include" />
+                  <e p="themify.svg" t="Include" />
+                  <e p="themify.ttf" t="Include" />
+                  <e p="themify.woff" t="Include" />
+                </e>
+                <e p="img" t="Include">
+                  <e p="core-img" t="Include">
+                    <e p="favicon.ico" t="Include" />
+                    <e p="favicon.png" t="Include" />
+                    <e p="logo.png" t="Include" />
+                    <e p="logo2.png" t="Include" />
+                    <e p="logotype.png" t="Include" />
+                  </e>
+                </e>
+                <e p="js" t="Include">
+                  <e p="active.js" t="Include" />
+                  <e p="bootstrap" t="Include">
+                    <e p="bootstrap.min.js" t="Include" />
+                    <e p="popper.min.js" t="Include" />
+                  </e>
+                  <e p="jquery" t="Include">
+                    <e p="jquery-2.2.4.min.js" t="Include" />
+                  </e>
+                  <e p="plugins" t="Include">
+                    <e p="plugins.js" t="Include" />
+                  </e>
+                  <e p="prism.js" t="Include" />
+                </e>
+                <e p="screenshot.png" t="Include" />
+                <e p="style.css" t="Include" />
+                <e p="style.css.map" t="Include" />
+              </e>
+            </e>
+            <e p="windows10-logo.png" t="Include" />
+            <e p="windows10-logo.webp" t="Include" />
+            <e p="youtube_icon_logo.png" t="Include" />
+            <e p="youtube_icon_logo.webp" t="Include" />
+          </e>
+        </e>
+        <e p="Blogifier.Core" t="IncludeRecursive">
+          <e p="AppConfig.cs" t="Include" />
+          <e p="AppResources.cs" t="Include" />
+          <e p="AppSettings.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Blogifier.Core.csproj" t="IncludeRecursive" />
+          <e p="Constants.cs" t="Include" />
+          <e p="data" t="Include">
+            <e p="AppData.cs" t="Include" />
+            <e p="AppDbContext.cs" t="Include" />
+            <e p="Domain" t="Include">
+              <e p="AppUser.cs" t="Include" />
+              <e p="Author.cs" t="Include" />
+              <e p="BlogPost.cs" t="Include" />
+              <e p="CustomField.cs" t="Include" />
+              <e p="Notification.cs" t="Include" />
+              <e p="Plugins.cs" t="Include" />
+              <e p="Stats.cs" t="Include" />
+            </e>
+            <e p="Models" t="Include">
+              <e p="AccountModel.cs" t="Include" />
+              <e p="AppModel.cs" t="Include" />
+              <e p="AssetModel.cs" t="Include" />
+              <e p="GithubModel.cs" t="Include" />
+              <e p="NotificationModel.cs" t="Include" />
+              <e p="PostModel.cs" t="Include" />
+              <e p="ThemeModel.cs" t="Include" />
+              <e p="WidgetsModel.cs" t="Include" />
+            </e>
+            <e p="Repositories" t="Include">
+              <e p="AuthorRepository.cs" t="Include" />
+              <e p="CustomFieldRepository.cs" t="Include" />
+              <e p="HtmlWidgetRepository.cs" t="Include" />
+              <e p="NewsletterRepository.cs" t="Include" />
+              <e p="NotificationRepository.cs" t="Include" />
+              <e p="PostRepository.cs" t="Include" />
+              <e p="Repository.cs" t="Include" />
+              <e p="StatsRepository.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Extensions" t="Include">
+            <e p="DateTimeExtensions.cs" t="Include" />
+            <e p="ServiceCollectionExtensions.cs" t="Include" />
+            <e p="StringExtensions.cs" t="Include" />
+          </e>
+          <e p="Helpers" t="Include">
+            <e p="ActionFilters.cs" t="Include" />
+            <e p="ActiveRouteTagHelper.cs" t="Include" />
+            <e p="ModelHelper.cs" t="Include" />
+            <e p="Pager.cs" t="Include" />
+            <e p="SystemClock.cs" t="Include" />
+          </e>
+          <e p="Migrations" t="Include">
+            <e p="20180810003517_InitAppDb.cs" t="Include" />
+            <e p="20180810003517_InitAppDb.Designer.cs" t="Include" />
+            <e p="20180915222836_Notifications.cs" t="Include" />
+            <e p="20180915222836_Notifications.Designer.cs" t="Include" />
+            <e p="20180917014904_HtmlWidgets.cs" t="Include" />
+            <e p="20180917014904_HtmlWidgets.Designer.cs" t="Include" />
+            <e p="20181013050615_CustomFields.cs" t="Include" />
+            <e p="20181013050615_CustomFields.Designer.cs" t="Include" />
+            <e p="20181220174710_Newsletters.cs" t="Include" />
+            <e p="20181220174710_Newsletters.Designer.cs" t="Include" />
+            <e p="20181220175110_RebuildHtmlWidgets.cs" t="Include" />
+            <e p="20181220175110_RebuildHtmlWidgets.Designer.cs" t="Include" />
+            <e p="20200411175525_NewsletterIpDate.cs" t="Include" />
+            <e p="20200411175525_NewsletterIpDate.Designer.cs" t="Include" />
+            <e p="20200516193238_StatsTotals.cs" t="Include" />
+            <e p="20200516193238_StatsTotals.Designer.cs" t="Include" />
+            <e p="AppDbContextModelSnapshot.cs" t="Include" />
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="Blogifier.Core.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Services" t="Include">
+            <e p="AppService.cs" t="Include" />
+            <e p="DataService.cs" t="Include" />
+            <e p="FeedService.cs" t="Include" />
+            <e p="ImportService.cs" t="Include" />
+            <e p="NotificationService.cs" t="Include" />
+            <e p="SendGridService.cs" t="Include" />
+            <e p="StorageService.cs" t="Include" />
+            <e p="WebService.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Blogifier.Core.Tests" t="IncludeRecursive">
+          <e p="appsettings.json" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Blog.db" t="Include" />
+          <e p="Blogifier.Core.Tests.csproj" t="IncludeRecursive" />
+          <e p="Extensions" t="Include">
+            <e p="StringExtensionsTests.cs" t="Include" />
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="Blogifier.Core.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Repositories" t="Include">
+            <e p="AuthorRepositoryTests.cs" t="Include" />
+            <e p="CustomFieldsRepositoryTests.cs" t="Include" />
+            <e p="NewsletterRepositoryTests.cs" t="Include" />
+          </e>
+          <e p="Services" t="Include">
+            <e p="DataServiceTests.cs" t="Include" />
+            <e p="EmailServiceTests.cs" t="Include" />
+            <e p="ImportServiceTests.cs" t="Include" />
+            <e p="StorageServiceTests.cs" t="Include" />
+            <e p="SyndicationServiceTests.cs" t="Include" />
+            <e p="WebServiceTests.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Blogifier.Widgets" t="IncludeRecursive">
+          <e p="_Imports.razor" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Blogifier.Widgets.csproj" t="IncludeRecursive" />
+          <e p="Custom.razor" t="Include" />
+          <e p="Custom.razor.cs" t="Include" />
+          <e p="Drafts.razor" t="Include" />
+          <e p="Drafts.razor.cs" t="Include" />
+          <e p="EmailForm.razor" t="Include" />
+          <e p="EmailForm.razor.cs" t="Include" />
+          <e p="Featured.razor" t="Include" />
+          <e p="Featured.razor.cs" t="Include" />
+          <e p="FieldEditor.razor" t="Include" />
+          <e p="FieldEditor.razor.cs" t="Include" />
+          <e p="Helpers" t="Include">
+            <e p="FeatureHelper.cs" t="Include" />
+          </e>
+          <e p="MainChart.razor" t="Include" />
+          <e p="MainChart.razor.cs" t="Include" />
+          <e p="MdEditor.razor" t="Include" />
+          <e p="MdEditor.razor.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="Blogifier.Widgets.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Popular.razor" t="Include" />
+          <e p="Popular.razor.cs" t="Include" />
+          <e p="PostEditor.razor" t="Include" />
+          <e p="PostEditor.razor.cs" t="Include" />
+          <e p="Profile.razor" t="Include" />
+          <e p="Profile.razor.cs" t="Include" />
+          <e p="Published.razor" t="Include" />
+          <e p="Published.razor.cs" t="Include" />
+          <e p="SocialAdmin.razor" t="Include" />
+          <e p="SocialAdmin.razor.cs" t="Include" />
+          <e p="SocialButtons.razor" t="Include" />
+          <e p="SocialButtons.razor.cs" t="Include" />
+          <e p="Subscription.razor" t="Include" />
+          <e p="Subscription.razor.cs" t="Include" />
+          <e p="Themes.razor" t="Include" />
+          <e p="Themes.razor.cs" t="Include" />
+          <e p="Welcome.razor" t="Include" />
+          <e p="Welcome.razor.cs" t="Include" />
+          <e p="wwwroot" t="Include">
+            <e p="icon.png" t="Include" />
+            <e p="widgets.css" t="Include" />
+            <e p="widgets.js" t="Include" />
+          </e>
+        </e>
+      </e>
+    </e>
+  </component>
+</project>
