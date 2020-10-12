@@ -28,7 +28,7 @@ html,
 body {
     height: 100%;
     background-color: #2b2f32;
-    background-image:  url("img/pexels-bri-schneiter-346529.webp");;
+    background-image:  url("img/pexels-bri-schneiter-346529.webp");
     background-size: cover;
     background-blend-mode: overlay;
 }

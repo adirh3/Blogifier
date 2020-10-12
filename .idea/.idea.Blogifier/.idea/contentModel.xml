@@ -67,7 +67,7 @@
           <e p="icon.png" t="Include" />
           <e p="Logs" t="Include" />
           <e p="obj" t="ExcludeRecursive">
-            <e p="Debug" t="Include">
+            <e p="Release" t="Include">
               <e p="netcoreapp3.1" t="Include">
                 <e p="Blogifier.AssemblyInfo.cs" t="Include" />
                 <e p="Blogifier.RazorAssemblyInfo.cs" t="Include" />
@@ -790,7 +790,7 @@
             <e p="AppDbContextModelSnapshot.cs" t="Include" />
           </e>
           <e p="obj" t="ExcludeRecursive">
-            <e p="Debug" t="Include">
+            <e p="Release" t="Include">
               <e p="netcoreapp3.1" t="Include">
                 <e p="Blogifier.Core.AssemblyInfo.cs" t="Include" />
               </e>
@@ -816,7 +816,7 @@
             <e p="StringExtensionsTests.cs" t="Include" />
           </e>
           <e p="obj" t="ExcludeRecursive">
-            <e p="Debug" t="Include">
+            <e p="Release" t="Include">
               <e p="netcoreapp3.1" t="Include">
                 <e p="Blogifier.Core.Tests.AssemblyInfo.cs" t="Include" />
               </e>
@@ -858,7 +858,7 @@
           <e p="MdEditor.razor" t="Include" />
           <e p="MdEditor.razor.cs" t="Include" />
           <e p="obj" t="ExcludeRecursive">
-            <e p="Debug" t="Include">
+            <e p="Release" t="Include">
               <e p="netcoreapp3.1" t="Include">
                 <e p="Blogifier.Widgets.AssemblyInfo.cs" t="Include" />
               </e>
